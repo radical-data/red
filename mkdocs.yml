@@ -29,9 +29,12 @@ markdown_extensions:
       custom_checkbox: true
       clickable_checkbox: true
   - attr_list
+  - footnotes
+  - md_in_html
 
 plugins:
   - search
+  - awesome-pages
   - i18n:
       default_language: en
       languages:
@@ -47,16 +50,13 @@ plugins:
 
 nav:
   - index.md
-  - Introduction:
-    - process.md
   - Course:
-    - find.md
-    - visualise.md
-    - reflect.md
-    - analyse.md
-  - About:
+    - introduction.md
+    - finding-open-data.md
+    - critiquing-data.md
+  - Other:
     - about.md
-    - for-instructors.md
+    - ...
 
 extra:
   social:
