@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>.</loc>
+         <lastmod>2022-03-30</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/"/>
+         
+    </url>
+    <url>
+         <loc>about/</loc>
+         <lastmod>2022-03-30</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/about/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/about/"/>
+         
+    </url>
+    <url>
+         <loc>analyse/</loc>
+         <lastmod>2022-03-30</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/analyse/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/analyse/"/>
+         
+    </url>
+    <url>
+         <loc>find/</loc>
+         <lastmod>2022-03-30</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/find/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/find/"/>
+         
+    </url>
+    <url>
+         <loc>for-instructors/</loc>
+         <lastmod>2022-03-30</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/for-instructors/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/for-instructors/"/>
+         
+    </url>
+    <url>
+         <loc>process/</loc>
+         <lastmod>2022-03-30</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/process/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/process/"/>
+         
+    </url>
+    <url>
+         <loc>reflect/</loc>
+         <lastmod>2022-03-30</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/reflect/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/reflect/"/>
+         
+    </url>
+    <url>
+         <loc>visualise/</loc>
+         <lastmod>2022-03-30</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/visualise/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/visualise/"/>
+         
+    </url>
+</urlset>

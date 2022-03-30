@@ -1,0 +1,11 @@
+.md-typeset {
+  font-size: 0.9rem;
+}
+
+.md-nav {
+  font-size: 0.9rem;
+}
+
+.md-typeset :is(.admonition, details) {
+  font-size: 0.75rem;
+}
