@@ -17,51 +17,43 @@
          
     </url>
     <url>
-         <loc>analyse/</loc>
+         <loc>course-design/</loc>
          <lastmod>2022-03-30</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="en/analyse/"/>
-         <xhtml:link rel="alternate" hreflang="nl" href="nl/analyse/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/course-design/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/course-design/"/>
          
     </url>
     <url>
-         <loc>find/</loc>
+         <loc>critiquing-data/</loc>
          <lastmod>2022-03-30</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="en/find/"/>
-         <xhtml:link rel="alternate" hreflang="nl" href="nl/find/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/critiquing-data/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/critiquing-data/"/>
          
     </url>
     <url>
-         <loc>for-instructors/</loc>
+         <loc>finding-open-data/</loc>
          <lastmod>2022-03-30</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="en/for-instructors/"/>
-         <xhtml:link rel="alternate" hreflang="nl" href="nl/for-instructors/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/finding-open-data/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/finding-open-data/"/>
          
     </url>
     <url>
-         <loc>process/</loc>
+         <loc>introduction/</loc>
          <lastmod>2022-03-30</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="en/process/"/>
-         <xhtml:link rel="alternate" hreflang="nl" href="nl/process/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/introduction/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/introduction/"/>
          
     </url>
     <url>
-         <loc>reflect/</loc>
+         <loc>resources/</loc>
          <lastmod>2022-03-30</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="en/reflect/"/>
-         <xhtml:link rel="alternate" hreflang="nl" href="nl/reflect/"/>
-         
-    </url>
-    <url>
-         <loc>visualise/</loc>
-         <lastmod>2022-03-30</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="en/visualise/"/>
-         <xhtml:link rel="alternate" hreflang="nl" href="nl/visualise/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/resources/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/resources/"/>
          
     </url>
 </urlset>
