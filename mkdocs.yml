@@ -1,0 +1,67 @@
+site_name: Radical Environmental Data
+theme:
+  name: material
+  font:
+    text: Lato
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+    - scheme: slate 
+      primary: teal
+      accent: green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+  logo: assets/logo-white.svg
+  favicon: images/logo-white.png
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - attr_list
+
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      languages:
+        en:
+          name: English
+        nl:
+          name: Nederlands
+          site_name: Radicaal Milieudata
+      nav_translations:
+        nl:
+          Introduction: Introductie
+          Course: Cursus
+
+nav:
+  - index.md
+  - Introduction:
+    - process.md
+  - Course:
+    - find.md
+    - visualise.md
+    - reflect.md
+    - analyse.md
+  - About:
+    - about.md
+    - for-instructors.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/radicaldataproject
+
+extra_css:
+  - stylesheets/extra.css
