@@ -26,7 +26,7 @@
 
 | Name | Description |
 | --- | --- |
-| [Kaggle](https://www.kaggle.com/datasets?tags=7302-Environment) | Kaggle has a wide range of datasets, including 1000s on the environment. |
+| [Kaggle](https://www.kaggle.com/datasets?tags=7302-Environment) | A wide range of datasets, including 1000s on the environment. |
 
 ## Tools
 
