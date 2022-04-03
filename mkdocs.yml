@@ -54,6 +54,7 @@ nav:
     - introduction.md
     - finding-open-data.md
     - critiquing-data.md
+    - visualising-data.md
   - Other:
     - about.md
     - ...
@@ -61,7 +62,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/radicaldataproject
+      link: https://github.com/radicaldataproject/red
 
 extra_css:
   - stylesheets/extra.css
