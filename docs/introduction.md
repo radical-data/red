@@ -58,7 +58,7 @@ There are lots of great projects using environmental data. Let's look at two, on
 
 ![Two people test water for the project 'Peep Under the Elbe'.](http://critical-art.net/wp-content/uploads/2016/08/elbe_03.jpg)
 
-[Critical Art Collective](critical-art.net) worked with residents of Wilhelmsburg, a poor and neglected neighbourhood in Hamburg, to create tools and test the quality of the local water. The goal was to learn where the safest places for the popular activities of swimming and fishing.
+[Critical Art Collective](http://critical-art.net) worked with residents of Wilhelmsburg, a poor and neglected neighbourhood in Hamburg, to create tools and test the quality of the local water. The goal was to learn where the safest places for the popular activities of swimming and fishing.
 
 !!! question "Ideas for an extension"
     _Do you have any thoughts about how this project could be extended?_
