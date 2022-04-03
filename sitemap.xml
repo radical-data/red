@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>.</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-03</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="en/"/>
          <xhtml:link rel="alternate" hreflang="nl" href="nl/"/>
@@ -10,7 +10,7 @@
     </url>
     <url>
          <loc>about/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-03</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="en/about/"/>
          <xhtml:link rel="alternate" hreflang="nl" href="nl/about/"/>
@@ -18,7 +18,7 @@
     </url>
     <url>
          <loc>course-design/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-03</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="en/course-design/"/>
          <xhtml:link rel="alternate" hreflang="nl" href="nl/course-design/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
          <loc>critiquing-data/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-03</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="en/critiquing-data/"/>
          <xhtml:link rel="alternate" hreflang="nl" href="nl/critiquing-data/"/>
@@ -34,7 +34,7 @@
     </url>
     <url>
          <loc>finding-open-data/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-03</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="en/finding-open-data/"/>
          <xhtml:link rel="alternate" hreflang="nl" href="nl/finding-open-data/"/>
@@ -42,7 +42,7 @@
     </url>
     <url>
          <loc>introduction/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-03</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="en/introduction/"/>
          <xhtml:link rel="alternate" hreflang="nl" href="nl/introduction/"/>
@@ -50,10 +50,18 @@
     </url>
     <url>
          <loc>resources/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-03</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="en/resources/"/>
          <xhtml:link rel="alternate" hreflang="nl" href="nl/resources/"/>
+         
+    </url>
+    <url>
+         <loc>visualising-data/</loc>
+         <lastmod>2022-04-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/visualising-data/"/>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/visualising-data/"/>
          
     </url>
 </urlset>
