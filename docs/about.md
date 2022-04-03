@@ -1,6 +1,8 @@
+# About
+
 Radical Environmental Data is a course on working with environmental data. It is a collaboration between [Creative Coding Utrecht](https://creativecodingutrecht.nl/) and [Radical Data](https://radicaldata.org).
 
-It was initially developed for a program of four two-hour workshops to young people in Utrecht.
+It was initially developed for a program of workshops for young people in Utrecht.
 
 ## Design
 
