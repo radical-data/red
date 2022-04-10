@@ -20,8 +20,8 @@
 To start this module, we need to have some data to critique. If you completed the [Finding Open Data](finding-open-data.md) module, look back and see if there are any datasets that interested you from there. If you didn't, no problem. Here are three datasets that you can choose from for this exercise.
 
 - [Register of CCTV cameras in Utrecht](https://utrecht.dataplatform.nl/#/data/fa374238-7b29-4e8e-ab20-4e242a143085)
-- Dataset 2
-- Dataset 3
+- [Air Quality in Utrecht](https://utrecht.dataplatform.nl/#/data/72d75a2d-cdc8-4712-bfb1-90aa0b2cc49a)
+- [Risk of Collision with Whales](https://www.eea.europa.eu/data-and-maps/data/risk-of-collision-with-whales)
 
 To prepare, open the dataset in your computer and go to the webpage where it was downloaded from.
 
