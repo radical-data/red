@@ -14,7 +14,7 @@ In general, there are more and higher quality GPS apps for Android mobiles. I re
 | App | Platform | Multimedia waypoints |
 | --- | --- | --- |
 | [OSMAnd](https://osmand.net/) | Android and iOS, but with limitations on iOS | :heavy_check_mark: on Android |
-| GPXTracker | iOS | :x: |
+| [GPXTracker](https://wiki.openstreetmap.org/wiki/OpenGpxTracker) | iOS | :x: |
 | OpenGPSTrackker | Android and iOS | :x: |
 
 ### OSMAnd
@@ -29,6 +29,8 @@ In general, there are more and higher quality GPS apps for Android mobiles. I re
 Note for iOS users: OSMAnd are planning to add the audio/video notes plugin to the iOS app in 2022.
 
 ### GPXTracker
+
+You can add and name waypoints.
 
 ### Extras
 
