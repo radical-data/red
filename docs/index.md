@@ -10,4 +10,4 @@ The modular design of the course means that it is accessible for different level
 
 ## How should I learn from it?
 
- Instructors or self-studiers can look [here](for-instructors.md) for suggestions on designing a program.
+ Instructors or self-studiers can look [here](course-design.md) for suggestions on designing a program.
