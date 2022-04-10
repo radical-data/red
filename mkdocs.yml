@@ -28,6 +28,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - attr_list
   - footnotes
   - md_in_html
@@ -55,6 +58,7 @@ nav:
     - finding-open-data.md
     - critiquing-data.md
     - visualising-data.md
+    - doing-a-data-walk.md
   - Other:
     - about.md
     - ...
