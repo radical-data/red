@@ -32,6 +32,13 @@ Note for iOS users: OSMAnd are planning to add the audio/video notes plugin to t
 
 You can add and name waypoints.
 
+### Datawalking Apps
+
+Three minimalist apps for data walking ([https://datawalking.com/apps.html](https://datawalking.com/apps.html)). They output data as a csv, making it particularly easy to play with after. They also work in the browser so they work across operating systems.
+
+![Data Walking Count App](assets/data-walking-count-app.png)
+
+
 ### Extras
 
 #### GeotagPhotosTagger
