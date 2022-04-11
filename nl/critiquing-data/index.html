@@ -311,9 +311,74 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Critiquing Data
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         Critiquing Data
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#get-some-data" class="md-nav__link">
+    Get some data
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interrogation" class="md-nav__link">
+    Interrogation
+  </a>
+  
+    <nav class="md-nav" aria-label="Interrogation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#limits" class="md-nav__link">
+    Limits
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#messiness" class="md-nav__link">
+    Messiness
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#possibilities" class="md-nav__link">
+    Possibilities
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -328,6 +393,20 @@
     <li class="md-nav__item">
       <a href="../visualising-data/" class="md-nav__link">
         Visualising Data
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../doing-a-data-walk/" class="md-nav__link">
+        Doing a Data Walk
       </a>
     </li>
   
@@ -404,6 +483,20 @@
   
   
     <li class="md-nav__item">
+      <a href="../data-and-art/" class="md-nav__link">
+        Data and Art
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../resources/" class="md-nav__link">
         Resources
       </a>
@@ -438,6 +531,55 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#get-some-data" class="md-nav__link">
+    Get some data
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interrogation" class="md-nav__link">
+    Interrogation
+  </a>
+  
+    <nav class="md-nav" aria-label="Interrogation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#limits" class="md-nav__link">
+    Limits
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#messiness" class="md-nav__link">
+    Messiness
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#possibilities" class="md-nav__link">
+    Possibilities
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -450,6 +592,87 @@
                 
 
 <h1 id="critiquing-data">Critiquing Data</h1>
+<div class="admonition abstract">
+<p class="admonition-title">Learning objectives</p>
+<ul>
+<li>Learn how to look at datasets critically</li>
+</ul>
+</div>
+<!-- !!! example "Lesson plan"
+
+    1. Explore Utrecht data -->
+
+<!-- !!! info "Requirements"
+    Each participant needs:
+    - A device with internet access
+
+    - A dataset.
+        - If the participant has completed the [Finding Open Data](finding-open-data.md) module, datasets from there will be perfect.
+        - If not, this module has a selection of three datasets that can be used. -->
+
+<h2 id="get-some-data">Get some data</h2>
+<p>To start this module, we need to have some data to critique. If you completed the <a href="../finding-open-data/">Finding Open Data</a> module, look back and see if there are any datasets that interested you from there. If you didn't, no problem. Here are three datasets that you can choose from for this exercise.</p>
+<ul>
+<li><a href="https://utrecht.dataplatform.nl/#/data/fa374238-7b29-4e8e-ab20-4e242a143085">Register of CCTV cameras in Utrecht</a></li>
+<li><a href="https://utrecht.dataplatform.nl/#/data/72d75a2d-cdc8-4712-bfb1-90aa0b2cc49a">Air Quality in Utrecht</a></li>
+<li><a href="https://www.eea.europa.eu/data-and-maps/data/risk-of-collision-with-whales">Risk of Collision with Whales</a></li>
+</ul>
+<p>To prepare, open the dataset in your computer and go to the webpage where it was downloaded from.</p>
+<p>Ready?</p>
+<p><img alt="Person making a gesture to say 'bring it on'." src="https://media.giphy.com/media/l0MYzAwMPl8s0jtSg/giphy.gif" /></p>
+<h2 id="interrogation">Interrogation</h2>
+<p>The goal of this module is to understand that datasets are not perfect clean things. They are messy abstractions made by people. A lot of choices go into making a dataset.</p>
+<h3 id="limits">Limits</h3>
+<p>Let's start easy(ish). What does your data include?</p>
+<div class="admonition question">
+<p class="admonition-title">Exercise: Overview</p>
+<ol class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> In your dataset, what is measured?</li>
+</ol>
+</div>
+<p>Datasets cannot include everything.</p>
+<p>[Examples of datasets and the things that aren't measured]</p>
+<div class="admonition question">
+<p class="admonition-title">Exercise: The missing</p>
+<ol class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> What isn't measured on purpose? For example, if the dataset is about CCTV cameras, does it include all CCTV cameras or does have only council cameras and leave out private cameras?</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> What important related things aren't measured? For a dataset about fish, does it include squid? Or sharks?</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> What things could be missing due to the data collection process? For example, if the dataset is about homeless people, there are many ways a homeless person would not be included in the data collection.</li>
+</ol>
+</div>
+<h3 id="messiness">Messiness</h3>
+<p>Though we have a view of datasets as abstract and pure, coming out of the world, they are always people behind them doing the measuring. They walk the streets, drive the Google street view bikes, identify objects in images.</p>
+<p>[Case study on how people are paid to recognise objects in images for AI.]</p>
+<div class="admonition question">
+<p class="admonition-title">Exercise: Look under the data</p>
+<ol class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> Who did the measuring?</li>
+</ol>
+</div>
+<p>[Story of how datasets can be wrong and messed up]</p>
+<div class="admonition question">
+<p class="admonition-title">Exercise: The gap between data and reality</p>
+<ol class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> How could it be 'wrong'? (How many ways can you think of?)</li>
+</ol>
+</div>
+<h3 id="possibilities">Possibilities</h3>
+<div class="admonition question">
+<p class="admonition-title">Exercise: What does having this data allow?<ol class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> If you were an evil mastermind, how could you use this data for your dastardly plans?</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> If you were the kindest person in the world <em>and</em> had unlimited money and power, how could you use this data?</li>
+</ol>
+</p>
+</div>
+<p>Combining the messiness with the possibilities:</p>
+<div class="admonition question">
+<p class="admonition-title">Exercise: Fragility of evil plans<p>What negative implications could there be if someone used this dataset as 'the truth'?</p>
+<ol class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> Answer first for one of the evil mastermind's projects in the question above</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> And then for the kindest person project</li>
+</ol>
+</p>
+</div>
 
               
             </article>
